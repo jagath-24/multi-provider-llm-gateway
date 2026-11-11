@@ -1,0 +1,10 @@
+node_modules
+dist
+.manus
+.manus-logs
+data
+.agents
+*.log
+.git
+.env
+.env.local
